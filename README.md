@@ -8,6 +8,7 @@
 * Coloured Terminal.
 * The bomb displays the time left for explosion in seconds.
 * Implementation of three Levels.
+* Difficulty increases with level.
 * Explosion display
 * Score, Lives and Level display
 * Random movement of enemies
