@@ -28,7 +28,7 @@
 
 ## Prerequisites
 
-Game works well on both python and python3. 
+Game works well on both python and python3 :) . 
 
 Things you need to install the software and instructions to install them:
 
