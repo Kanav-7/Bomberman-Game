@@ -99,7 +99,7 @@ sudo pip3 install requirements.txt
 | [1 1]         | Bomb with Timer |    
 
 
-## Screenshot
+## Screenshot of Game
 
 ![alt text](./bmbmn.png)
 
